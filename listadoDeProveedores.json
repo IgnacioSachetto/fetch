@@ -1,0 +1,8 @@
+[
+    {"id":1, "nombre":"MegaRegalos", "direccion": "Alberdi 450", "localidad": "Córdoba", "provincia": "Córdoba", "telefono": 340512334},
+    {"id":2, "nombre":"Pupé", "direccion": "Corrientes 1210","localidad": "Rosario", "provincia": "Santa Fe", "telefono": 355242334},
+    {"id":3, "nombre":"Kima", "direccion": "Cochabamba 323","localidad": "Rio Cuarto", "provincia": "Córdoba", "telefono": 350525674}
+
+
+]
+
